@@ -44,5 +44,14 @@ services:
     depends_on:
       - aula_php8.5
 
+    aula_node:
+    build: 
+      context: .
+      container_name: aula_node
+      restart: unless-stopped
+      depends_on:
+       aula_mariadb:
+       condition: services_healthy
+       
 volumes:
   mariadb_data:
