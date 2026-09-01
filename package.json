@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fesouzz/aulamvc2.git"
+    "url": "git+https://github.com/sofi-andrade/aulaphpmvc"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Fesouzz/aulamvc2/issues"
+    "url": "https://github.com/sofi-andrade/aulaphpmvc/issues"
   },
-  "homepage": "https://github.com/Fesouzz/aulamvc2#readme"
+  "homepage": "https://github.com/sofi-andrade/aulaphpmvc#readme"
 }
